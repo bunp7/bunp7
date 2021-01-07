@@ -1,4 +1,9 @@
-### Hi there 👋
+### About Me
+Hi, I'm currently a MSc student at London School of Economics (LSE) studying Quantitaive Methods for Risk Management in the Department of Statistics. I previously graduated from Imperial College London with a MEng in Biomedcial Engineering.
+My GitHub consists of projects and code related to both degrees and some personal projects.
+
+
+
 
 <!--
 **bunp7/bunp7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
