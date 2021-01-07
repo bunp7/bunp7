@@ -1,8 +1,5 @@
-### About Me
-Hi, I'm currently a MSc student at London School of Economics (LSE) studying Quantitaive Methods for Risk Management in the Department of Statistics. I previously graduated from Imperial College London with a MEng in Biomedcial Engineering.
-My GitHub consists of projects and code related to both degrees and some personal projects.
-
-
+### Hi, I'm Chanat Pansubkul (Bun)
+MSc student at London School of Economics (LSE)
 
 
 <!--
