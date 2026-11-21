@@ -1,5 +1,5 @@
 ### Hi, I'm Chanat Pansubkul (Bun)
-MSc student at London School of Economics (LSE)
+Data Scientist
 
 
 <!--
